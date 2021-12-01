@@ -2,7 +2,7 @@
   "name": "formik_test",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://josenaime.github.io/mit-formik>",
+  "homepage":"https://josenaime.github.io/mit-formik",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
