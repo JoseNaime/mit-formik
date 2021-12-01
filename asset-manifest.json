@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mit-formik%3E/static/css/main.ce918d6a.chunk.css",
-    "main.js": "/mit-formik%3E/static/js/main.cc4141f3.chunk.js",
-    "main.js.map": "/mit-formik%3E/static/js/main.cc4141f3.chunk.js.map",
-    "runtime-main.js": "/mit-formik%3E/static/js/runtime-main.d42b973f.js",
-    "runtime-main.js.map": "/mit-formik%3E/static/js/runtime-main.d42b973f.js.map",
-    "static/js/2.e5c5b6a6.chunk.js": "/mit-formik%3E/static/js/2.e5c5b6a6.chunk.js",
-    "static/js/2.e5c5b6a6.chunk.js.map": "/mit-formik%3E/static/js/2.e5c5b6a6.chunk.js.map",
-    "index.html": "/mit-formik%3E/index.html",
-    "static/css/main.ce918d6a.chunk.css.map": "/mit-formik%3E/static/css/main.ce918d6a.chunk.css.map",
-    "static/js/2.e5c5b6a6.chunk.js.LICENSE.txt": "/mit-formik%3E/static/js/2.e5c5b6a6.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/mit-formik%3E/static/media/background.00103a21.jpg"
+    "main.css": "/mit-formik/static/css/main.9b2d8936.chunk.css",
+    "main.js": "/mit-formik/static/js/main.cc4141f3.chunk.js",
+    "main.js.map": "/mit-formik/static/js/main.cc4141f3.chunk.js.map",
+    "runtime-main.js": "/mit-formik/static/js/runtime-main.0ae87dde.js",
+    "runtime-main.js.map": "/mit-formik/static/js/runtime-main.0ae87dde.js.map",
+    "static/js/2.e5c5b6a6.chunk.js": "/mit-formik/static/js/2.e5c5b6a6.chunk.js",
+    "static/js/2.e5c5b6a6.chunk.js.map": "/mit-formik/static/js/2.e5c5b6a6.chunk.js.map",
+    "index.html": "/mit-formik/index.html",
+    "static/css/main.9b2d8936.chunk.css.map": "/mit-formik/static/css/main.9b2d8936.chunk.css.map",
+    "static/js/2.e5c5b6a6.chunk.js.LICENSE.txt": "/mit-formik/static/js/2.e5c5b6a6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mit-formik/static/media/background.00103a21.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d42b973f.js",
+    "static/js/runtime-main.0ae87dde.js",
     "static/js/2.e5c5b6a6.chunk.js",
-    "static/css/main.ce918d6a.chunk.css",
+    "static/css/main.9b2d8936.chunk.css",
     "static/js/main.cc4141f3.chunk.js"
   ]
 }
